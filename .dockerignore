@@ -1,0 +1,6 @@
+*
+!RESTclient.cbl
+!get_errno.c
+!errnomessage.cbl
+!httpstatus.cbl
+!connecttoserver.cbl
